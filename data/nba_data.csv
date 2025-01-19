@@ -1,0 +1,1051 @@
+id,name,score,matchup,stage,year
+E1,Boston,3,1,First Round,1984-85
+E8,Cleveland,1,1,First Round,1984-85
+E1,Boston,4,2,Conference Semifinals,1984-85
+E4,Detroit,2,2,Conference Semifinals,1984-85
+E4,Detroit,3,3,First Round,1984-85
+E5,New Jersey,0,3,First Round,1984-85
+E1,Boston,4,4,Conference Finals,1984-85
+E3,Philadelphia,1,4,Conference Finals,1984-85
+E3,Philadelphia,3,5,First Round,1984-85
+E6,Washington,1,5,First Round,1984-85
+E3,Philadelphia,4,6,Conference Semifinals,1984-85
+E2,Milwaukee,0,6,Conference Semifinals,1984-85
+E2,Milwaukee,3,7,First Round,1984-85
+E7,Chicago,1,7,First Round,1984-85
+E1,Boston,2,8,NBA Finals,1984-85
+W1,LA Lakers,4,8,NBA Finals,1984-85
+W1,LA Lakers,3,9,First Round,1984-85
+W8,Phoenix,0,9,First Round,1984-85
+W1,LA Lakers,4,10,Conference Semifinals,1984-85
+W5,Portland,1,10,Conference Semifinals,1984-85
+W4,Dallas,1,11,First Round,1984-85
+W5,Portland,3,11,First Round,1984-85
+W1,LA Lakers,4,12,Conference Finals,1984-85
+W2,Denver,1,12,Conference Finals,1984-85
+W3,Houston,2,13,First Round,1984-85
+W6,Utah,3,13,First Round,1984-85
+W6,Utah,1,14,Conference Semifinals,1984-85
+W2,Denver,4,14,Conference Semifinals,1984-85
+W2,Denver,3,15,First Round,1984-85
+W7,San Antonio,2,15,First Round,1984-85
+E1,Boston,3,1,First Round,1985-86
+E8,Chicago,0,1,First Round,1985-86
+E1,Boston,4,2,Conference Semifinals,1985-86
+E4,Atlanta,1,2,Conference Semifinals,1985-86
+E4,Atlanta,3,3,First Round,1985-86
+E5,Detroit,1,3,First Round,1985-86
+E1,Boston,4,4,Conference Finals,1985-86
+E2,Milwaukee,0,4,Conference Finals,1985-86
+E3,Philadelphia,3,5,First Round,1985-86
+E6,Washington,2,5,First Round,1985-86
+E3,Philadelphia,3,6,Conference Semifinals,1985-86
+E2,Milwaukee,4,6,Conference Semifinals,1985-86
+E2,Milwaukee,3,7,First Round,1985-86
+E7,New Jersey,0,7,First Round,1985-86
+E1,Boston,4,8,NBA Finals,1985-86
+W2,Houston,2,8,NBA Finals,1985-86
+W1,LA Lakers,3,9,First Round,1985-86
+W8,San Antonio,0,9,First Round,1985-86
+W1,LA Lakers,4,10,Conference Semifinals,1985-86
+W4,Dallas,2,10,Conference Semifinals,1985-86
+W4,Dallas,3,11,First Round,1985-86
+W5,Utah,1,11,First Round,1985-86
+W1,LA Lakers,1,12,Conference Finals,1985-86
+W2,Houston,4,12,Conference Finals,1985-86
+W3,Denver,3,13,First Round,1985-86
+W6,Portland,1,13,First Round,1985-86
+W3,Denver,2,14,Conference Semifinals,1985-86
+W2,Houston,4,14,Conference Semifinals,1985-86
+W2,Houston,3,15,First Round,1985-86
+W7,Sacramento,0,15,First Round,1985-86
+E1,Boston,3,1,First Round,1986-87
+E8,Chicago,0,1,First Round,1986-87
+E1,Boston,4,2,Conference Semifinals,1986-87
+E4,Milwaukee,3,2,Conference Semifinals,1986-87
+E4,Milwaukee,3,3,First Round,1986-87
+E5,Philadelphia,2,3,First Round,1986-87
+E1,Boston,4,4,Conference Finals,1986-87
+E3,Detroit,3,4,Conference Finals,1986-87
+E3,Detroit,3,5,First Round,1986-87
+E6,Washington,0,5,First Round,1986-87
+E3,Detroit,4,6,Conference Semifinals,1986-87
+E2,Atlanta,1,6,Conference Semifinals,1986-87
+E2,Atlanta,3,7,First Round,1986-87
+E7,Indiana,1,7,First Round,1986-87
+E1,Boston,2,8,NBA Finals,1986-87
+W1,LA Lakers,4,8,NBA Finals,1986-87
+W1,LA Lakers,3,9,First Round,1986-87
+W8,Denver,0,9,First Round,1986-87
+W1,LA Lakers,4,10,Conference Semifinals,1986-87
+W5,Golden State,1,10,Conference Semifinals,1986-87
+W4,Utah,2,11,First Round,1986-87
+W5,Golden State,3,11,First Round,1986-87
+W1,LA Lakers,4,12,Conference Finals,1986-87
+W7,Seattle,0,12,Conference Finals,1986-87
+W3,Portland,1,13,First Round,1986-87
+W6,Houston,3,13,First Round,1986-87
+W6,Houston,2,14,Conference Semifinals,1986-87
+W7,Seattle,4,14,Conference Semifinals,1986-87
+W2,Dallas,1,15,First Round,1986-87
+W7,Seattle,3,15,First Round,1986-87
+E1,Boston,3,1,First Round,1987-88
+E8,New York,1,1,First Round,1987-88
+E1,Boston,4,2,Conference Semifinals,1987-88
+E4,Atlanta,3,2,Conference Semifinals,1987-88
+E4,Atlanta,3,3,First Round,1987-88
+E5,Milwaukee,2,3,First Round,1987-88
+E1,Boston,2,4,Conference Finals,1987-88
+E2,Detroit,4,4,Conference Finals,1987-88
+E3,Chicago,3,5,First Round,1987-88
+E6,Cleveland,2,5,First Round,1987-88
+E3,Chicago,1,6,Conference Semifinals,1987-88
+E2,Detroit,4,6,Conference Semifinals,1987-88
+E2,Detroit,3,7,First Round,1987-88
+E7,Washington,2,7,First Round,1987-88
+E2,Detroit,3,8,NBA Finals,1987-88
+W1,LA Lakers,4,8,NBA Finals,1987-88
+W1,LA Lakers,3,9,First Round,1987-88
+W8,San Antonio,0,9,First Round,1987-88
+W1,LA Lakers,4,10,Conference Semifinals,1987-88
+W5,Utah,3,10,Conference Semifinals,1987-88
+W4,Portland,1,11,First Round,1987-88
+W5,Utah,3,11,First Round,1987-88
+W1,LA Lakers,4,12,Conference Finals,1987-88
+W3,Dallas,3,12,Conference Finals,1987-88
+W3,Dallas,3,13,First Round,1987-88
+W6,Houston,1,13,First Round,1987-88
+W3,Dallas,4,14,Conference Semifinals,1987-88
+W2,Denver,2,14,Conference Semifinals,1987-88
+W2,Denver,3,15,First Round,1987-88
+W7,Seattle,2,15,First Round,1987-88
+E1,Detroit,3,1,First Round,1988-89
+E8,Boston,0,1,First Round,1988-89
+E1,Detroit,4,2,Conference Semifinals,1988-89
+E5,Milwaukee,0,2,Conference Semifinals,1988-89
+E4,Atlanta,2,3,First Round,1988-89
+E5,Milwaukee,3,3,First Round,1988-89
+E1,Detroit,4,4,Conference Finals,1988-89
+E6,Chicago,2,4,Conference Finals,1988-89
+E3,Cleveland,2,5,First Round,1988-89
+E6,Chicago,3,5,First Round,1988-89
+E6,Chicago,4,6,Conference Semifinals,1988-89
+E2,New York,2,6,Conference Semifinals,1988-89
+E2,New York,3,7,First Round,1988-89
+E7,Philadelphia,0,7,First Round,1988-89
+E1,Detroit,4,8,NBA Finals,1988-89
+W1,LA Lakers,0,8,NBA Finals,1988-89
+W1,LA Lakers,3,9,First Round,1988-89
+W8,Portland,0,9,First Round,1988-89
+W1,LA Lakers,4,10,Conference Semifinals,1988-89
+W4,Seattle,0,10,Conference Semifinals,1988-89
+W4,Seattle,3,11,First Round,1988-89
+W5,Houston,1,11,First Round,1988-89
+W1,LA Lakers,4,12,Conference Finals,1988-89
+W3,Phoenix,0,12,Conference Finals,1988-89
+W3,Phoenix,3,13,First Round,1988-89
+W6,Denver,0,13,First Round,1988-89
+W3,Phoenix,4,14,Conference Semifinals,1988-89
+W7,Golden State,1,14,Conference Semifinals,1988-89
+W2,Utah,0,15,First Round,1988-89
+W7,Golden State,3,15,First Round,1988-89
+E1,Detroit,3,1,First Round,1989-90
+E8,Indiana,0,1,First Round,1989-90
+E1,Detroit,4,2,Conference Semifinals,1989-90
+E5,New York,1,2,Conference Semifinals,1989-90
+E4,Boston,2,3,First Round,1989-90
+E5,New York,3,3,First Round,1989-90
+E1,Detroit,4,4,Conference Finals,1989-90
+E3,Chicago,3,4,Conference Finals,1989-90
+E3,Chicago,3,5,First Round,1989-90
+E6,Milwaukee,1,5,First Round,1989-90
+E3,Chicago,4,6,Conference Semifinals,1989-90
+E2,Philadelphia,1,6,Conference Semifinals,1989-90
+E2,Philadelphia,3,7,First Round,1989-90
+E7,Cleveland,2,7,First Round,1989-90
+E1,Detroit,4,8,NBA Finals,1989-90
+W3,Portland,1,8,NBA Finals,1989-90
+W1,LA Lakers,3,9,First Round,1989-90
+W8,Houston,1,9,First Round,1989-90
+W1,LA Lakers,1,10,Conference Semifinals,1989-90
+W5,Phoenix,4,10,Conference Semifinals,1989-90
+W4,Utah,2,11,First Round,1989-90
+W5,Phoenix,3,11,First Round,1989-90
+W5,Phoenix,2,12,Conference Finals,1989-90
+W3,Portland,4,12,Conference Finals,1989-90
+W3,Portland,3,13,First Round,1989-90
+W6,Dallas,0,13,First Round,1989-90
+W3,Portland,4,14,Conference Semifinals,1989-90
+W2,San Antonio,3,14,Conference Semifinals,1989-90
+W2,San Antonio,3,15,First Round,1989-90
+W7,Denver,0,15,First Round,1989-90
+E1,Chicago,3,1,First Round,1990-91
+E8,New York,0,1,First Round,1990-91
+E1,Chicago,4,2,Conference Semifinals,1990-91
+E5,Philadelphia,1,2,Conference Semifinals,1990-91
+E4,Milwaukee,0,3,First Round,1990-91
+E5,Philadelphia,3,3,First Round,1990-91
+E1,Chicago,4,4,Conference Finals,1990-91
+E3,Detroit,0,4,Conference Finals,1990-91
+E3,Detroit,3,5,First Round,1990-91
+E6,Atlanta,2,5,First Round,1990-91
+E3,Detroit,4,6,Conference Semifinals,1990-91
+E2,Boston,2,6,Conference Semifinals,1990-91
+E2,Boston,3,7,First Round,1990-91
+E7,Indiana,2,7,First Round,1990-91
+E1,Chicago,4,8,NBA Finals,1990-91
+W3,LA Lakers,1,8,NBA Finals,1990-91
+W1,Portland,3,9,First Round,1990-91
+W8,Seattle,2,9,First Round,1990-91
+W1,Portland,4,10,Conference Semifinals,1990-91
+W5,Utah,1,10,Conference Semifinals,1990-91
+W4,Phoenix,1,11,First Round,1990-91
+W5,Utah,3,11,First Round,1990-91
+W1,Portland,2,12,Conference Finals,1990-91
+W3,LA Lakers,4,12,Conference Finals,1990-91
+W3,LA Lakers,3,13,First Round,1990-91
+W6,Houston,0,13,First Round,1990-91
+W3,LA Lakers,4,14,Conference Semifinals,1990-91
+W7,Golden State,1,14,Conference Semifinals,1990-91
+W2,San Antonio,1,15,First Round,1990-91
+W7,Golden State,3,15,First Round,1990-91
+E1,Chicago,3,1,First Round,1991-92
+E8,Miami,0,1,First Round,1991-92
+E1,Chicago,4,2,Conference Semifinals,1991-92
+E4,New York,3,2,Conference Semifinals,1991-92
+E4,New York,3,3,First Round,1991-92
+E5,Detroit,2,3,First Round,1991-92
+E1,Chicago,4,4,Conference Finals,1991-92
+E3,Cleveland,2,4,Conference Finals,1991-92
+E3,Cleveland,3,5,First Round,1991-92
+E6,New Jersey,1,5,First Round,1991-92
+E3,Cleveland,4,6,Conference Semifinals,1991-92
+E2,Boston,3,6,Conference Semifinals,1991-92
+E2,Boston,3,7,First Round,1991-92
+E7,Indiana,0,7,First Round,1991-92
+E1,Chicago,4,8,NBA Finals,1991-92
+W1,Portland,2,8,NBA Finals,1991-92
+W1,Portland,3,9,First Round,1991-92
+W8,LA Lakers,1,9,First Round,1991-92
+W1,Portland,4,10,Conference Semifinals,1991-92
+W4,Phoenix,1,10,Conference Semifinals,1991-92
+W4,Phoenix,3,11,First Round,1991-92
+W5,San Antonio,0,11,First Round,1991-92
+W1,Portland,4,12,Conference Finals,1991-92
+W2,Utah,2,12,Conference Finals,1991-92
+W3,Golden State,1,13,First Round,1991-92
+W6,Seattle,3,13,First Round,1991-92
+W6,Seattle,1,14,Conference Semifinals,1991-92
+W2,Utah,4,14,Conference Semifinals,1991-92
+W2,Utah,3,15,First Round,1991-92
+W7,LA Clippers,2,15,First Round,1991-92
+E1,New York,3,1,First Round,1992-93
+E8,Indiana,1,1,First Round,1992-93
+E1,New York,4,2,Conference Semifinals,1992-93
+E5,Charlotte,1,2,Conference Semifinals,1992-93
+E4,Boston,1,3,First Round,1992-93
+E5,Charlotte,3,3,First Round,1992-93
+E1,New York,2,4,Conference Finals,1992-93
+E2,Chicago,4,4,Conference Finals,1992-93
+E3,Cleveland,3,5,First Round,1992-93
+E6,New Jersey,2,5,First Round,1992-93
+E3,Cleveland,0,6,Conference Semifinals,1992-93
+E2,Chicago,4,6,Conference Semifinals,1992-93
+E2,Chicago,3,7,First Round,1992-93
+E7,Atlanta,0,7,First Round,1992-93
+E2,Chicago,4,8,NBA Finals,1992-93
+W1,Phoenix,2,8,NBA Finals,1992-93
+W1,Phoenix,3,9,First Round,1992-93
+W8,LA Lakers,2,9,First Round,1992-93
+W1,Phoenix,4,10,Conference Semifinals,1992-93
+W5,San Antonio,2,10,Conference Semifinals,1992-93
+W4,Portland,1,11,First Round,1992-93
+W5,San Antonio,3,11,First Round,1992-93
+W1,Phoenix,4,12,Conference Finals,1992-93
+W3,Seattle,3,12,Conference Finals,1992-93
+W3,Seattle,3,13,First Round,1992-93
+W6,Utah,2,13,First Round,1992-93
+W3,Seattle,4,14,Conference Semifinals,1992-93
+W2,Houston,3,14,Conference Semifinals,1992-93
+W2,Houston,3,15,First Round,1992-93
+W7,LA Clippers,2,15,First Round,1992-93
+E1,Atlanta,3,1,First Round,1993-94
+E8,Miami,2,1,First Round,1993-94
+E1,Atlanta,2,2,Conference Semifinals,1993-94
+E5,Indiana,4,2,Conference Semifinals,1993-94
+E4,Orlando,0,3,First Round,1993-94
+E5,Indiana,3,3,First Round,1993-94
+E5,Indiana,3,4,Conference Finals,1993-94
+E2,New York,4,4,Conference Finals,1993-94
+E3,Chicago,3,5,First Round,1993-94
+E6,Cleveland,0,5,First Round,1993-94
+E3,Chicago,3,6,Conference Semifinals,1993-94
+E2,New York,4,6,Conference Semifinals,1993-94
+E2,New York,3,7,First Round,1993-94
+E7,New Jersey,1,7,First Round,1993-94
+E2,New York,3,8,NBA Finals,1993-94
+W2,Houston,4,8,NBA Finals,1993-94
+W1,Seattle,2,9,First Round,1993-94
+W8,Denver,3,9,First Round,1993-94
+W8,Denver,3,10,Conference Semifinals,1993-94
+W5,Utah,4,10,Conference Semifinals,1993-94
+W4,San Antonio,1,11,First Round,1993-94
+W5,Utah,3,11,First Round,1993-94
+W5,Utah,1,12,Conference Finals,1993-94
+W2,Houston,4,12,Conference Finals,1993-94
+W3,Phoenix,3,13,First Round,1993-94
+W6,Golden State,0,13,First Round,1993-94
+W3,Phoenix,3,14,Conference Semifinals,1993-94
+W2,Houston,4,14,Conference Semifinals,1993-94
+W2,Houston,3,15,First Round,1993-94
+W7,Portland,1,15,First Round,1993-94
+E1,Orlando,3,1,First Round,1994-95
+E8,Boston,1,1,First Round,1994-95
+E1,Orlando,4,2,Conference Semifinals,1994-95
+E5,Chicago,2,2,Conference Semifinals,1994-95
+E4,Charlotte,1,3,First Round,1994-95
+E5,Chicago,3,3,First Round,1994-95
+E1,Orlando,4,4,Conference Finals,1994-95
+E2,Indiana,3,4,Conference Finals,1994-95
+E3,New York,3,5,First Round,1994-95
+E6,Cleveland,1,5,First Round,1994-95
+E3,New York,3,6,Conference Semifinals,1994-95
+E2,Indiana,4,6,Conference Semifinals,1994-95
+E2,Indiana,3,7,First Round,1994-95
+E7,Atlanta,0,7,First Round,1994-95
+E1,Orlando,0,8,NBA Finals,1994-95
+W6,Houston,4,8,NBA Finals,1994-95
+W1,San Antonio,3,9,First Round,1994-95
+W8,Denver,0,9,First Round,1994-95
+W1,San Antonio,4,10,Conference Semifinals,1994-95
+W5,LA Lakers,2,10,Conference Semifinals,1994-95
+W4,Seattle,1,11,First Round,1994-95
+W5,LA Lakers,3,11,First Round,1994-95
+W1,San Antonio,2,12,Conference Finals,1994-95
+W6,Houston,4,12,Conference Finals,1994-95
+W3,Utah,2,13,First Round,1994-95
+W6,Houston,3,13,First Round,1994-95
+W6,Houston,4,14,Conference Semifinals,1994-95
+W2,Phoenix,3,14,Conference Semifinals,1994-95
+W2,Phoenix,3,15,First Round,1994-95
+W7,Portland,0,15,First Round,1994-95
+E1,Chicago,3,1,First Round,1995-96
+E8,Miami,0,1,First Round,1995-96
+E1,Chicago,4,2,Conference Semifinals,1995-96
+E5,New York,1,2,Conference Semifinals,1995-96
+E4,Cleveland,0,3,First Round,1995-96
+E5,New York,3,3,First Round,1995-96
+E1,Chicago,4,4,Conference Finals,1995-96
+E2,Orlando,0,4,Conference Finals,1995-96
+E3,Indiana,2,5,First Round,1995-96
+E6,Atlanta,3,5,First Round,1995-96
+E6,Atlanta,1,6,Conference Semifinals,1995-96
+E2,Orlando,4,6,Conference Semifinals,1995-96
+E2,Orlando,3,7,First Round,1995-96
+E7,Detroit,0,7,First Round,1995-96
+E1,Chicago,4,8,NBA Finals,1995-96
+W1,Seattle,2,8,NBA Finals,1995-96
+W1,Seattle,3,9,First Round,1995-96
+W8,Sacramento,1,9,First Round,1995-96
+W1,Seattle,4,10,Conference Semifinals,1995-96
+W5,Houston,0,10,Conference Semifinals,1995-96
+W4,LA Lakers,1,11,First Round,1995-96
+W5,Houston,3,11,First Round,1995-96
+W1,Seattle,4,12,Conference Finals,1995-96
+W3,Utah,3,12,Conference Finals,1995-96
+W3,Utah,3,13,First Round,1995-96
+W6,Portland,2,13,First Round,1995-96
+W3,Utah,4,14,Conference Semifinals,1995-96
+W2,San Antonio,2,14,Conference Semifinals,1995-96
+W2,San Antonio,3,15,First Round,1995-96
+W7,Phoenix,1,15,First Round,1995-96
+E1,Chicago,3,1,First Round,1996-97
+E8,Washington,0,1,First Round,1996-97
+E1,Chicago,4,2,Conference Semifinals,1996-97
+E4,Atlanta,1,2,Conference Semifinals,1996-97
+E4,Atlanta,3,3,First Round,1996-97
+E5,Detroit,2,3,First Round,1996-97
+E1,Chicago,4,4,Conference Finals,1996-97
+E2,Miami,1,4,Conference Finals,1996-97
+E3,New York,3,5,First Round,1996-97
+E6,Charlotte,0,5,First Round,1996-97
+E3,New York,3,6,Conference Semifinals,1996-97
+E2,Miami,4,6,Conference Semifinals,1996-97
+E2,Miami,3,7,First Round,1996-97
+E7,Orlando,2,7,First Round,1996-97
+E1,Chicago,4,8,NBA Finals,1996-97
+W1,Utah,2,8,NBA Finals,1996-97
+W1,Utah,3,9,First Round,1996-97
+W8,LA Clippers,0,9,First Round,1996-97
+W1,Utah,4,10,Conference Semifinals,1996-97
+W4,LA Lakers,1,10,Conference Semifinals,1996-97
+W4,LA Lakers,3,11,First Round,1996-97
+W5,Portland,1,11,First Round,1996-97
+W1,Utah,4,12,Conference Finals,1996-97
+W3,Houston,2,12,Conference Finals,1996-97
+W3,Houston,3,13,First Round,1996-97
+W6,Minnesota,0,13,First Round,1996-97
+W3,Houston,4,14,Conference Semifinals,1996-97
+W2,Seattle,3,14,Conference Semifinals,1996-97
+W2,Seattle,3,15,First Round,1996-97
+W7,Phoenix,2,15,First Round,1996-97
+E1,Chicago,3,1,First Round,1997-98
+E8,New Jersey,0,1,First Round,1997-98
+E1,Chicago,4,2,Conference Semifinals,1997-98
+E4,Charlotte,1,2,Conference Semifinals,1997-98
+E4,Charlotte,3,3,First Round,1997-98
+E5,Atlanta,1,3,First Round,1997-98
+E1,Chicago,4,4,Conference Finals,1997-98
+E3,Indiana,3,4,Conference Finals,1997-98
+E3,Indiana,3,5,First Round,1997-98
+E6,Cleveland,1,5,First Round,1997-98
+E3,Indiana,4,6,Conference Semifinals,1997-98
+E7,New York,1,6,Conference Semifinals,1997-98
+E2,Miami,2,7,First Round,1997-98
+E7,New York,3,7,First Round,1997-98
+E1,Chicago,4,8,NBA Finals,1997-98
+W1,Utah,2,8,NBA Finals,1997-98
+W1,Utah,3,9,First Round,1997-98
+W8,Houston,2,9,First Round,1997-98
+W1,Utah,4,10,Conference Semifinals,1997-98
+W5,San Antonio,1,10,Conference Semifinals,1997-98
+W4,Phoenix,1,11,First Round,1997-98
+W5,San Antonio,3,11,First Round,1997-98
+W1,Utah,4,12,Conference Finals,1997-98
+W3,LA Lakers,0,12,Conference Finals,1997-98
+W3,LA Lakers,3,13,First Round,1997-98
+W6,Portland,1,13,First Round,1997-98
+W3,LA Lakers,4,14,Conference Semifinals,1997-98
+W2,Seattle,1,14,Conference Semifinals,1997-98
+W2,Seattle,3,15,First Round,1997-98
+W7,Minnesota,2,15,First Round,1997-98
+E1,Miami,2,1,First Round,1998-99
+E8,New York,3,1,First Round,1998-99
+E8,New York,4,2,Conference Semifinals,1998-99
+E4,Atlanta,0,2,Conference Semifinals,1998-99
+E4,Atlanta,3,3,First Round,1998-99
+E5,Detroit,2,3,First Round,1998-99
+E8,New York,4,4,Conference Finals,1998-99
+E2,Indiana,2,4,Conference Finals,1998-99
+E3,Orlando,1,5,First Round,1998-99
+E6,Philadelphia,3,5,First Round,1998-99
+E6,Philadelphia,0,6,Conference Semifinals,1998-99
+E2,Indiana,4,6,Conference Semifinals,1998-99
+E2,Indiana,3,7,First Round,1998-99
+E7,Milwaukee,0,7,First Round,1998-99
+E8,New York,1,8,NBA Finals,1998-99
+W1,San Antonio,4,8,NBA Finals,1998-99
+W1,San Antonio,3,9,First Round,1998-99
+W8,Minnesota,1,9,First Round,1998-99
+W1,San Antonio,4,10,Conference Semifinals,1998-99
+W4,LA Lakers,0,10,Conference Semifinals,1998-99
+W4,LA Lakers,3,11,First Round,1998-99
+W5,Houston,1,11,First Round,1998-99
+W1,San Antonio,4,12,Conference Finals,1998-99
+W2,Portland,0,12,Conference Finals,1998-99
+W3,Utah,3,13,First Round,1998-99
+W6,Sacramento,2,13,First Round,1998-99
+W3,Utah,2,14,Conference Semifinals,1998-99
+W2,Portland,4,14,Conference Semifinals,1998-99
+W2,Portland,3,15,First Round,1998-99
+W7,Phoenix,0,15,First Round,1998-99
+E1,Indiana,3,1,First Round,1999-00
+E8,Milwaukee,2,1,First Round,1999-00
+E1,Indiana,4,2,Conference Semifinals,1999-00
+E5,Philadelphia,2,2,Conference Semifinals,1999-00
+E4,Charlotte,1,3,First Round,1999-00
+E5,Philadelphia,3,3,First Round,1999-00
+E1,Indiana,4,4,Conference Finals,1999-00
+E3,New York,2,4,Conference Finals,1999-00
+E3,New York,3,5,First Round,1999-00
+E6,Toronto,0,5,First Round,1999-00
+E3,New York,4,6,Conference Semifinals,1999-00
+E2,Miami,3,6,Conference Semifinals,1999-00
+E2,Miami,3,7,First Round,1999-00
+E7,Detroit,0,7,First Round,1999-00
+E1,Indiana,2,8,NBA Finals,1999-00
+W1,LA Lakers,4,8,NBA Finals,1999-00
+W1,LA Lakers,3,9,First Round,1999-00
+W8,Sacramento,2,9,First Round,1999-00
+W1,LA Lakers,4,10,Conference Semifinals,1999-00
+W5,Phoenix,1,10,Conference Semifinals,1999-00
+W4,San Antonio,1,11,First Round,1999-00
+W5,Phoenix,3,11,First Round,1999-00
+W1,LA Lakers,4,12,Conference Finals,1999-00
+W3,Portland,3,12,Conference Finals,1999-00
+W3,Portland,3,13,First Round,1999-00
+W6,Minnesota,1,13,First Round,1999-00
+W3,Portland,4,14,Conference Semifinals,1999-00
+W2,Utah,1,14,Conference Semifinals,1999-00
+W2,Utah,3,15,First Round,1999-00
+W7,Seattle,2,15,First Round,1999-00
+E1,Philadelphia,3,1,First Round,2000-01
+E8,Indiana,1,1,First Round,2000-01
+E1,Philadelphia,4,2,Conference Semifinals,2000-01
+E5,Toronto,3,2,Conference Semifinals,2000-01
+E4,New York,2,3,First Round,2000-01
+E5,Toronto,3,3,First Round,2000-01
+E1,Philadelphia,4,4,Conference Finals,2000-01
+E2,Milwaukee,3,4,Conference Finals,2000-01
+E3,Miami,0,5,First Round,2000-01
+E6,Charlotte,3,5,First Round,2000-01
+E6,Charlotte,3,6,Conference Semifinals,2000-01
+E2,Milwaukee,4,6,Conference Semifinals,2000-01
+E2,Milwaukee,3,7,First Round,2000-01
+E7,Orlando,1,7,First Round,2000-01
+E1,Philadelphia,1,8,NBA Finals,2000-01
+W2,LA Lakers,4,8,NBA Finals,2000-01
+W1,San Antonio,3,9,First Round,2000-01
+W8,Minnesota,1,9,First Round,2000-01
+W1,San Antonio,4,10,Conference Semifinals,2000-01
+W5,Dallas,1,10,Conference Semifinals,2000-01
+W4,Utah,2,11,First Round,2000-01
+W5,Dallas,3,11,First Round,2000-01
+W1,San Antonio,0,12,Conference Finals,2000-01
+W2,LA Lakers,4,12,Conference Finals,2000-01
+W3,Sacramento,3,13,First Round,2000-01
+W6,Phoenix,1,13,First Round,2000-01
+W3,Sacramento,0,14,Conference Semifinals,2000-01
+W2,LA Lakers,4,14,Conference Semifinals,2000-01
+W2,LA Lakers,3,15,First Round,2000-01
+W7,Portland,0,15,First Round,2000-01
+E1,New Jersey,3,1,First Round,2001-02
+E8,Indiana,2,1,First Round,2001-02
+E1,New Jersey,4,2,Conference Semifinals,2001-02
+E4,Charlotte,1,2,Conference Semifinals,2001-02
+E4,Charlotte,3,3,First Round,2001-02
+E5,Orlando,1,3,First Round,2001-02
+E1,New Jersey,4,4,Conference Finals,2001-02
+E3,Boston,2,4,Conference Finals,2001-02
+E3,Boston,3,5,First Round,2001-02
+E6,Philadelphia,2,5,First Round,2001-02
+E3,Boston,4,6,Conference Semifinals,2001-02
+E2,Detroit,1,6,Conference Semifinals,2001-02
+E2,Detroit,3,7,First Round,2001-02
+E7,Toronto,2,7,First Round,2001-02
+E1,New Jersey,0,8,NBA Finals,2001-02
+W3,LA Lakers,4,8,NBA Finals,2001-02
+W1,Sacramento,3,9,First Round,2001-02
+W8,Utah,1,9,First Round,2001-02
+W1,Sacramento,4,10,Conference Semifinals,2001-02
+W4,Dallas,1,10,Conference Semifinals,2001-02
+W4,Dallas,3,11,First Round,2001-02
+W5,Minnesota,0,11,First Round,2001-02
+W1,Sacramento,3,12,Conference Finals,2001-02
+W3,LA Lakers,4,12,Conference Finals,2001-02
+W3,LA Lakers,3,13,First Round,2001-02
+W6,Portland,0,13,First Round,2001-02
+W3,LA Lakers,4,14,Conference Semifinals,2001-02
+W2,San Antonio,1,14,Conference Semifinals,2001-02
+W2,San Antonio,3,15,First Round,2001-02
+W7,Seattle,2,15,First Round,2001-02
+E1,Detroit,4,1,First Round,2002-03
+E8,Orlando,3,1,First Round,2002-03
+E1,Detroit,4,2,Conference Semifinals,2002-03
+E4,Philadelphia,2,2,Conference Semifinals,2002-03
+E4,Philadelphia,4,3,First Round,2002-03
+E5,New Orleans,2,3,First Round,2002-03
+E1,Detroit,0,4,Conference Finals,2002-03
+E2,New Jersey,4,4,Conference Finals,2002-03
+E3,Indiana,2,5,First Round,2002-03
+E6,Boston,4,5,First Round,2002-03
+E6,Boston,0,6,Conference Semifinals,2002-03
+E2,New Jersey,4,6,Conference Semifinals,2002-03
+E2,New Jersey,4,7,First Round,2002-03
+E7,Milwaukee,2,7,First Round,2002-03
+E2,New Jersey,2,8,NBA Finals,2002-03
+W1,San Antonio,4,8,NBA Finals,2002-03
+W1,San Antonio,4,9,First Round,2002-03
+W8,Phoenix,2,9,First Round,2002-03
+W1,San Antonio,4,10,Conference Semifinals,2002-03
+W5,LA Lakers,2,10,Conference Semifinals,2002-03
+W4,Minnesota,2,11,First Round,2002-03
+W5,LA Lakers,4,11,First Round,2002-03
+W1,San Antonio,4,12,Conference Finals,2002-03
+W3,Dallas,2,12,Conference Finals,2002-03
+W3,Dallas,4,13,First Round,2002-03
+W6,Portland,3,13,First Round,2002-03
+W3,Dallas,4,14,Conference Semifinals,2002-03
+W2,Sacramento,3,14,Conference Semifinals,2002-03
+W2,Sacramento,4,15,First Round,2002-03
+W7,Utah,1,15,First Round,2002-03
+E1,Indiana,4,1,First Round,2003-04
+E8,Boston,0,1,First Round,2003-04
+E1,Indiana,4,2,Conference Semifinals,2003-04
+E4,Miami,2,2,Conference Semifinals,2003-04
+E4,Miami,4,3,First Round,2003-04
+E5,New Orleans,3,3,First Round,2003-04
+E1,Indiana,2,4,Conference Finals,2003-04
+E3,Detroit,4,4,Conference Finals,2003-04
+E3,Detroit,4,5,First Round,2003-04
+E6,Milwaukee,1,5,First Round,2003-04
+E3,Detroit,4,6,Conference Semifinals,2003-04
+E2,New Jersey,3,6,Conference Semifinals,2003-04
+E2,New Jersey,4,7,First Round,2003-04
+E7,New York,0,7,First Round,2003-04
+E3,Detroit,4,8,NBA Finals,2003-04
+W2,LA Lakers,1,8,NBA Finals,2003-04
+W1,Minnesota,4,9,First Round,2003-04
+W8,Denver,1,9,First Round,2003-04
+W1,Minnesota,4,10,Conference Semifinals,2003-04
+W4,Sacramento,3,10,Conference Semifinals,2003-04
+W4,Sacramento,4,11,First Round,2003-04
+W5,Dallas,1,11,First Round,2003-04
+W1,Minnesota,2,12,Conference Finals,2003-04
+W2,LA Lakers,4,12,Conference Finals,2003-04
+W3,San Antonio,4,13,First Round,2003-04
+W6,Memphis,0,13,First Round,2003-04
+W3,San Antonio,2,14,Conference Semifinals,2003-04
+W2,LA Lakers,4,14,Conference Semifinals,2003-04
+W2,LA Lakers,4,15,First Round,2003-04
+W7,Houston,1,15,First Round,2003-04
+E1,Miami,4,1,First Round,2004-05
+E8,New Jersey,0,1,First Round,2004-05
+E1,Miami,4,2,Conference Semifinals,2004-05
+E5,Washington,0,2,Conference Semifinals,2004-05
+E4,Chicago,2,3,First Round,2004-05
+E5,Washington,4,3,First Round,2004-05
+E1,Miami,3,4,Conference Finals,2004-05
+E2,Detroit,4,4,Conference Finals,2004-05
+E3,Boston,3,5,First Round,2004-05
+E6,Indiana,4,5,First Round,2004-05
+E6,Indiana,2,6,Conference Semifinals,2004-05
+E2,Detroit,4,6,Conference Semifinals,2004-05
+E2,Detroit,4,7,First Round,2004-05
+E7,Philadelphia,1,7,First Round,2004-05
+E2,Detroit,3,8,NBA Finals,2004-05
+W2,San Antonio,4,8,NBA Finals,2004-05
+W1,Phoenix,4,9,First Round,2004-05
+W8,Memphis,0,9,First Round,2004-05
+W1,Phoenix,4,10,Conference Semifinals,2004-05
+W4,Dallas,2,10,Conference Semifinals,2004-05
+W4,Dallas,4,11,First Round,2004-05
+W5,Houston,3,11,First Round,2004-05
+W1,Phoenix,1,12,Conference Finals,2004-05
+W2,San Antonio,4,12,Conference Finals,2004-05
+W3,Seattle,4,13,First Round,2004-05
+W6,Sacramento,1,13,First Round,2004-05
+W3,Seattle,2,14,Conference Semifinals,2004-05
+W2,San Antonio,4,14,Conference Semifinals,2004-05
+W2,San Antonio,4,15,First Round,2004-05
+W7,Denver,1,15,First Round,2004-05
+E1,Detroit,4,1,First Round,2005-06
+E8,Milwaukee,1,1,First Round,2005-06
+E1,Detroit,4,2,Conference Semifinals,2005-06
+E4,Cleveland,3,2,Conference Semifinals,2005-06
+E4,Cleveland,4,3,First Round,2005-06
+E5,Washington,2,3,First Round,2005-06
+E1,Detroit,2,4,Conference Finals,2005-06
+E2,Miami,4,4,Conference Finals,2005-06
+E3,New Jersey,4,5,First Round,2005-06
+E6,Indiana,2,5,First Round,2005-06
+E3,New Jersey,1,6,Conference Semifinals,2005-06
+E2,Miami,4,6,Conference Semifinals,2005-06
+E2,Miami,4,7,First Round,2005-06
+E7,Chicago,2,7,First Round,2005-06
+E2,Miami,4,8,NBA Finals,2005-06
+W4,Dallas,2,8,NBA Finals,2005-06
+W1,San Antonio,4,9,First Round,2005-06
+W8,Sacramento,2,9,First Round,2005-06
+W1,San Antonio,3,10,Conference Semifinals,2005-06
+W4,Dallas,4,10,Conference Semifinals,2005-06
+W4,Dallas,4,11,First Round,2005-06
+W5,Memphis,0,11,First Round,2005-06
+W4,Dallas,4,12,Conference Finals,2005-06
+W2,Phoenix,2,12,Conference Finals,2005-06
+W3,Denver,1,13,First Round,2005-06
+W6,LA Clippers,4,13,First Round,2005-06
+W6,LA Clippers,3,14,Conference Semifinals,2005-06
+W2,Phoenix,4,14,Conference Semifinals,2005-06
+W2,Phoenix,4,15,First Round,2005-06
+W7,LA Lakers,3,15,First Round,2005-06
+E1,Detroit,4,1,First Round,2006-07
+E8,Orlando,0,1,First Round,2006-07
+E1,Detroit,4,2,Conference Semifinals,2006-07
+E5,Chicago,2,2,Conference Semifinals,2006-07
+E4,Miami,0,3,First Round,2006-07
+E5,Chicago,4,3,First Round,2006-07
+E1,Detroit,2,4,Conference Finals,2006-07
+E2,Cleveland,4,4,Conference Finals,2006-07
+E3,Toronto,2,5,First Round,2006-07
+E6,New Jersey,4,5,First Round,2006-07
+E6,New Jersey,2,6,Conference Semifinals,2006-07
+E2,Cleveland,4,6,Conference Semifinals,2006-07
+E2,Cleveland,4,7,First Round,2006-07
+E7,Washington,0,7,First Round,2006-07
+E2,Cleveland,0,8,NBA Finals,2006-07
+W3,San Antonio,4,8,NBA Finals,2006-07
+W1,Dallas,2,9,First Round,2006-07
+W8,Golden State,4,9,First Round,2006-07
+W8,Golden State,1,10,Conference Semifinals,2006-07
+W4,Utah,4,10,Conference Semifinals,2006-07
+W4,Utah,4,11,First Round,2006-07
+W5,Houston,3,11,First Round,2006-07
+W4,Utah,1,12,Conference Finals,2006-07
+W3,San Antonio,4,12,Conference Finals,2006-07
+W3,San Antonio,4,13,First Round,2006-07
+W6,Denver,1,13,First Round,2006-07
+W3,San Antonio,4,14,Conference Semifinals,2006-07
+W2,Phoenix,2,14,Conference Semifinals,2006-07
+W2,Phoenix,4,15,First Round,2006-07
+W7,LA Lakers,1,15,First Round,2006-07
+E1,Boston,4,1,First Round,2007-08
+E8,Atlanta,3,1,First Round,2007-08
+E1,Boston,4,2,Conference Semifinals,2007-08
+E4,Cleveland,3,2,Conference Semifinals,2007-08
+E4,Cleveland,4,3,First Round,2007-08
+E5,Washington,2,3,First Round,2007-08
+E1,Boston,4,4,Conference Finals,2007-08
+E2,Detroit,2,4,Conference Finals,2007-08
+E3,Orlando,4,5,First Round,2007-08
+E6,Toronto,1,5,First Round,2007-08
+E3,Orlando,1,6,Conference Semifinals,2007-08
+E2,Detroit,4,6,Conference Semifinals,2007-08
+E2,Detroit,4,7,First Round,2007-08
+E7,Philadelphia,2,7,First Round,2007-08
+E1,Boston,4,8,NBA Finals,2007-08
+W1,LA Lakers,2,8,NBA Finals,2007-08
+W1,LA Lakers,4,9,First Round,2007-08
+W8,Denver,0,9,First Round,2007-08
+W1,LA Lakers,4,10,Conference Semifinals,2007-08
+W4,Utah,2,10,Conference Semifinals,2007-08
+W4,Utah,4,11,First Round,2007-08
+W5,Houston,2,11,First Round,2007-08
+W1,LA Lakers,4,12,Conference Finals,2007-08
+W3,San Antonio,1,12,Conference Finals,2007-08
+W3,San Antonio,4,13,First Round,2007-08
+W6,Phoenix,1,13,First Round,2007-08
+W3,San Antonio,4,14,Conference Semifinals,2007-08
+W2,New Orleans,3,14,Conference Semifinals,2007-08
+W2,New Orleans,4,15,First Round,2007-08
+W7,Dallas,1,15,First Round,2007-08
+E1,Cleveland,4,1,First Round,2008-09
+E8,Detroit,0,1,First Round,2008-09
+E1,Cleveland,4,2,Conference Semifinals,2008-09
+E4,Atlanta,0,2,Conference Semifinals,2008-09
+E4,Atlanta,4,3,First Round,2008-09
+E5,Miami,3,3,First Round,2008-09
+E1,Cleveland,2,4,Conference Finals,2008-09
+E3,Orlando,4,4,Conference Finals,2008-09
+E3,Orlando,4,5,First Round,2008-09
+E6,Philadelphia,2,5,First Round,2008-09
+E3,Orlando,4,6,Conference Semifinals,2008-09
+E2,Boston,3,6,Conference Semifinals,2008-09
+E2,Boston,4,7,First Round,2008-09
+E7,Chicago,3,7,First Round,2008-09
+E3,Orlando,1,8,NBA Finals,2008-09
+W1,LA Lakers,4,8,NBA Finals,2008-09
+W1,LA Lakers,4,9,First Round,2008-09
+W8,Utah,1,9,First Round,2008-09
+W1,LA Lakers,4,10,Conference Semifinals,2008-09
+W5,Houston,3,10,Conference Semifinals,2008-09
+W4,Portland,2,11,First Round,2008-09
+W5,Houston,4,11,First Round,2008-09
+W1,LA Lakers,4,12,Conference Finals,2008-09
+W2,Denver,2,12,Conference Finals,2008-09
+W3,San Antonio,1,13,First Round,2008-09
+W6,Dallas,4,13,First Round,2008-09
+W6,Dallas,1,14,Conference Semifinals,2008-09
+W2,Denver,4,14,Conference Semifinals,2008-09
+W2,Denver,4,15,First Round,2008-09
+W7,New Orleans,1,15,First Round,2008-09
+E1,Cleveland,4,1,First Round,2009-10
+E8,Chicago,1,1,First Round,2009-10
+E1,Cleveland,2,2,Conference Semifinals,2009-10
+E4,Boston,4,2,Conference Semifinals,2009-10
+E4,Boston,4,3,First Round,2009-10
+E5,Miami,1,3,First Round,2009-10
+E4,Boston,4,4,Conference Finals,2009-10
+E2,Orlando,2,4,Conference Finals,2009-10
+E3,Atlanta,4,5,First Round,2009-10
+E6,Milwaukee,3,5,First Round,2009-10
+E3,Atlanta,0,6,Conference Semifinals,2009-10
+E2,Orlando,4,6,Conference Semifinals,2009-10
+E2,Orlando,4,7,First Round,2009-10
+E7,Charlotte,0,7,First Round,2009-10
+E4,Boston,3,8,NBA Finals,2009-10
+W1,LA Lakers,4,8,NBA Finals,2009-10
+W1,LA Lakers,4,9,First Round,2009-10
+W8,Oklahoma City,2,9,First Round,2009-10
+W1,LA Lakers,4,10,Conference Semifinals,2009-10
+W5,Utah,0,10,Conference Semifinals,2009-10
+W4,Denver,2,11,First Round,2009-10
+W5,Utah,4,11,First Round,2009-10
+W1,LA Lakers,4,12,Conference Finals,2009-10
+W3,Phoenix,2,12,Conference Finals,2009-10
+W3,Phoenix,4,13,First Round,2009-10
+W6,Portland,2,13,First Round,2009-10
+W3,Phoenix,4,14,Conference Semifinals,2009-10
+W7,San Antonio,0,14,Conference Semifinals,2009-10
+W2,Dallas,2,15,First Round,2009-10
+W7,San Antonio,4,15,First Round,2009-10
+E1,Chicago,4,1,First Round,2010-11
+E8,Indiana,1,1,First Round,2010-11
+E1,Chicago,4,2,Conference Semifinals,2010-11
+E5,Atlanta,2,2,Conference Semifinals,2010-11
+E4,Orlando,2,3,First Round,2010-11
+E5,Atlanta,4,3,First Round,2010-11
+E1,Chicago,1,4,Conference Finals,2010-11
+E2,Miami,4,4,Conference Finals,2010-11
+E3,Boston,4,5,First Round,2010-11
+E6,New York,0,5,First Round,2010-11
+E3,Boston,1,6,Conference Semifinals,2010-11
+E2,Miami,4,6,Conference Semifinals,2010-11
+E2,Miami,4,7,First Round,2010-11
+E7,Philadelphia,1,7,First Round,2010-11
+E2,Miami,2,8,NBA Finals,2010-11
+W3,Dallas,4,8,NBA Finals,2010-11
+W1,San Antonio,2,9,First Round,2010-11
+W8,Memphis,4,9,First Round,2010-11
+W8,Memphis,3,10,Conference Semifinals,2010-11
+W4,Oklahoma City,4,10,Conference Semifinals,2010-11
+W4,Oklahoma City,4,11,First Round,2010-11
+W5,Denver,1,11,First Round,2010-11
+W4,Oklahoma City,1,12,Conference Finals,2010-11
+W3,Dallas,4,12,Conference Finals,2010-11
+W3,Dallas,4,13,First Round,2010-11
+W6,Portland,2,13,First Round,2010-11
+W3,Dallas,4,14,Conference Semifinals,2010-11
+W2,LA Lakers,0,14,Conference Semifinals,2010-11
+W2,LA Lakers,4,15,First Round,2010-11
+W7,New Orleans,2,15,First Round,2010-11
+E1,Chicago,2,1,First Round,2011-12
+E8,Philadelphia,4,1,First Round,2011-12
+E8,Philadelphia,3,2,Conference Semifinals,2011-12
+E4,Boston,4,2,Conference Semifinals,2011-12
+E4,Boston,4,3,First Round,2011-12
+E5,Atlanta,2,3,First Round,2011-12
+E4,Boston,3,4,Conference Finals,2011-12
+E2,Miami,4,4,Conference Finals,2011-12
+E3,Indiana,4,5,First Round,2011-12
+E6,Orlando,1,5,First Round,2011-12
+E3,Indiana,2,6,Conference Semifinals,2011-12
+E2,Miami,4,6,Conference Semifinals,2011-12
+E2,Miami,4,7,First Round,2011-12
+E7,New York,1,7,First Round,2011-12
+E2,Miami,4,8,NBA Finals,2011-12
+W2,Oklahoma City,1,8,NBA Finals,2011-12
+W1,San Antonio,4,9,First Round,2011-12
+W8,Utah,0,9,First Round,2011-12
+W1,San Antonio,4,10,Conference Semifinals,2011-12
+W5,LA Clippers,0,10,Conference Semifinals,2011-12
+W4,Memphis,3,11,First Round,2011-12
+W5,LA Clippers,4,11,First Round,2011-12
+W1,San Antonio,2,12,Conference Finals,2011-12
+W2,Oklahoma City,4,12,Conference Finals,2011-12
+W3,LA Lakers,4,13,First Round,2011-12
+W6,Denver,3,13,First Round,2011-12
+W3,LA Lakers,1,14,Conference Semifinals,2011-12
+W2,Oklahoma City,4,14,Conference Semifinals,2011-12
+W2,Oklahoma City,4,15,First Round,2011-12
+W7,Dallas,0,15,First Round,2011-12
+E1,Miami,4,1,First Round,2012-13
+E8,Milwaukee,0,1,First Round,2012-13
+E1,Miami,4,2,Conference Semifinals,2012-13
+E5,Chicago,1,2,Conference Semifinals,2012-13
+E4,Brooklyn,3,3,First Round,2012-13
+E5,Chicago,4,3,First Round,2012-13
+E1,Miami,4,4,Conference Finals,2012-13
+E3,Indiana,3,4,Conference Finals,2012-13
+E3,Indiana,4,5,First Round,2012-13
+E6,Atlanta,2,5,First Round,2012-13
+E3,Indiana,4,6,Conference Semifinals,2012-13
+E2,New York,2,6,Conference Semifinals,2012-13
+E2,New York,4,7,First Round,2012-13
+E7,Boston,2,7,First Round,2012-13
+E1,Miami,4,8,NBA Finals,2012-13
+W2,San Antonio,3,8,NBA Finals,2012-13
+W1,Oklahoma City,4,9,First Round,2012-13
+W8,Houston,2,9,First Round,2012-13
+W1,Oklahoma City,1,10,Conference Semifinals,2012-13
+W5,Memphis,4,10,Conference Semifinals,2012-13
+W4,LA Clippers,2,11,First Round,2012-13
+W5,Memphis,4,11,First Round,2012-13
+W5,Memphis,0,12,Conference Finals,2012-13
+W2,San Antonio,4,12,Conference Finals,2012-13
+W3,Denver,2,13,First Round,2012-13
+W6,Golden State,4,13,First Round,2012-13
+W6,Golden State,2,14,Conference Semifinals,2012-13
+W2,San Antonio,4,14,Conference Semifinals,2012-13
+W2,San Antonio,4,15,First Round,2012-13
+W7,LA Lakers,0,15,First Round,2012-13
+E1,Indiana,4,1,First Round,2013-14
+E8,Atlanta,3,1,First Round,2013-14
+E1,Indiana,4,2,Conference Semifinals,2013-14
+E5,Washington,2,2,Conference Semifinals,2013-14
+E4,Chicago,1,3,First Round,2013-14
+E5,Washington,4,3,First Round,2013-14
+E1,Indiana,2,4,Conference Finals,2013-14
+E2,Miami,4,4,Conference Finals,2013-14
+E3,Toronto,3,5,First Round,2013-14
+E6,Brooklyn,4,5,First Round,2013-14
+E6,Brooklyn,1,6,Conference Semifinals,2013-14
+E2,Miami,4,6,Conference Semifinals,2013-14
+E2,Miami,4,7,First Round,2013-14
+E7,Charlotte,0,7,First Round,2013-14
+E2,Miami,1,8,NBA Finals,2013-14
+W1,San Antonio,4,8,NBA Finals,2013-14
+W1,San Antonio,4,9,First Round,2013-14
+W8,Dallas,3,9,First Round,2013-14
+W1,San Antonio,4,10,Conference Semifinals,2013-14
+W5,Portland,1,10,Conference Semifinals,2013-14
+W4,Houston,2,11,First Round,2013-14
+W5,Portland,4,11,First Round,2013-14
+W1,San Antonio,4,12,Conference Finals,2013-14
+W2,Oklahoma City,2,12,Conference Finals,2013-14
+W3,LA Clippers,4,13,First Round,2013-14
+W6,Golden State,3,13,First Round,2013-14
+W3,LA Clippers,2,14,Conference Semifinals,2013-14
+W2,Oklahoma City,4,14,Conference Semifinals,2013-14
+W2,Oklahoma City,4,15,First Round,2013-14
+W7,Memphis,3,15,First Round,2013-14
+E1,Atlanta,4,1,First Round,2014-15
+E8,Brooklyn,2,1,First Round,2014-15
+E1,Atlanta,4,2,Conference Semifinals,2014-15
+E5,Washington,2,2,Conference Semifinals,2014-15
+E4,Toronto,0,3,First Round,2014-15
+E5,Washington,4,3,First Round,2014-15
+E1,Atlanta,0,4,Conference Finals,2014-15
+E2,Cleveland,4,4,Conference Finals,2014-15
+E3,Chicago,4,5,First Round,2014-15
+E6,Milwaukee,2,5,First Round,2014-15
+E3,Chicago,2,6,Conference Semifinals,2014-15
+E2,Cleveland,4,6,Conference Semifinals,2014-15
+E2,Cleveland,4,7,First Round,2014-15
+E7,Boston,0,7,First Round,2014-15
+E2,Cleveland,2,8,NBA Finals,2014-15
+W1,Golden State,4,8,NBA Finals,2014-15
+W1,Golden State,4,9,First Round,2014-15
+W8,New Orleans,0,9,First Round,2014-15
+W1,Golden State,4,10,Conference Semifinals,2014-15
+W5,Memphis,2,10,Conference Semifinals,2014-15
+W4,Portland,1,11,First Round,2014-15
+W5,Memphis,4,11,First Round,2014-15
+W1,Golden State,4,12,Conference Finals,2014-15
+W2,Houston,1,12,Conference Finals,2014-15
+W3,LA Clippers,4,13,First Round,2014-15
+W6,San Antonio,3,13,First Round,2014-15
+W3,LA Clippers,3,14,Conference Semifinals,2014-15
+W2,Houston,4,14,Conference Semifinals,2014-15
+W2,Houston,4,15,First Round,2014-15
+W7,Dallas,1,15,First Round,2014-15
+E1,Cleveland,4,1,First Round,2015-16
+E8,Detroit,0,1,First Round,2015-16
+E1,Cleveland,4,2,Conference Semifinals,2015-16
+E4,Atlanta,0,2,Conference Semifinals,2015-16
+E4,Atlanta,4,3,First Round,2015-16
+E5,Boston,2,3,First Round,2015-16
+E1,Cleveland,4,4,Conference Finals,2015-16
+E2,Toronto,2,4,Conference Finals,2015-16
+E3,Miami,4,5,First Round,2015-16
+E6,Charlotte,3,5,First Round,2015-16
+E3,Miami,3,6,Conference Semifinals,2015-16
+E2,Toronto,4,6,Conference Semifinals,2015-16
+E2,Toronto,4,7,First Round,2015-16
+E7,Indiana,3,7,First Round,2015-16
+E1,Cleveland,4,8,NBA Finals,2015-16
+W1,Golden State,3,8,NBA Finals,2015-16
+W1,Golden State,4,9,First Round,2015-16
+W8,Houston,1,9,First Round,2015-16
+W1,Golden State,4,10,Conference Semifinals,2015-16
+W5,Portland,1,10,Conference Semifinals,2015-16
+W4,LA Clippers,2,11,First Round,2015-16
+W5,Portland,4,11,First Round,2015-16
+W1,Golden State,4,12,Conference Finals,2015-16
+W3,Oklahoma City,3,12,Conference Finals,2015-16
+W3,Oklahoma City,4,13,First Round,2015-16
+W6,Dallas,1,13,First Round,2015-16
+W3,Oklahoma City,4,14,Conference Semifinals,2015-16
+W2,San Antonio,2,14,Conference Semifinals,2015-16
+W2,San Antonio,4,15,First Round,2015-16
+W7,Memphis,0,15,First Round,2015-16
+E1,Boston,4,1,First Round,2016-17
+E8,Chicago,2,1,First Round,2016-17
+E1,Boston,4,2,Conference Semifinals,2016-17
+E4,Washington,3,2,Conference Semifinals,2016-17
+E4,Washington,4,3,First Round,2016-17
+E5,Atlanta,2,3,First Round,2016-17
+E1,Boston,1,4,Conference Finals,2016-17
+E2,Cleveland,4,4,Conference Finals,2016-17
+E3,Toronto,4,5,First Round,2016-17
+E6,Milwaukee,2,5,First Round,2016-17
+E3,Toronto,0,6,Conference Semifinals,2016-17
+E2,Cleveland,4,6,Conference Semifinals,2016-17
+E2,Cleveland,4,7,First Round,2016-17
+E7,Indiana,0,7,First Round,2016-17
+E2,Cleveland,1,8,NBA Finals,2016-17
+W1,Golden State,4,8,NBA Finals,2016-17
+W1,Golden State,4,9,First Round,2016-17
+W8,Portland,0,9,First Round,2016-17
+W1,Golden State,4,10,Conference Semifinals,2016-17
+W5,Utah,0,10,Conference Semifinals,2016-17
+W4,LA Clippers,3,11,First Round,2016-17
+W5,Utah,4,11,First Round,2016-17
+W1,Golden State,4,12,Conference Finals,2016-17
+W2,San Antonio,0,12,Conference Finals,2016-17
+W3,Houston,4,13,First Round,2016-17
+W6,Oklahoma City,1,13,First Round,2016-17
+W3,Houston,2,14,Conference Semifinals,2016-17
+W2,San Antonio,4,14,Conference Semifinals,2016-17
+W2,San Antonio,4,15,First Round,2016-17
+W7,Memphis,2,15,First Round,2016-17
+E1,Toronto,4,1,First Round,2017-18
+E8,Washington,2,1,First Round,2017-18
+E1,Toronto,0,2,Conference Semifinals,2017-18
+E4,Cleveland,4,2,Conference Semifinals,2017-18
+E4,Cleveland,4,3,First Round,2017-18
+E5,Indiana,3,3,First Round,2017-18
+E4,Cleveland,4,4,Conference Finals,2017-18
+E2,Boston,3,4,Conference Finals,2017-18
+E3,Philadelphia,4,5,First Round,2017-18
+E6,Miami,1,5,First Round,2017-18
+E3,Philadelphia,1,6,Conference Semifinals,2017-18
+E2,Boston,4,6,Conference Semifinals,2017-18
+E2,Boston,4,7,First Round,2017-18
+E7,Milwaukee,3,7,First Round,2017-18
+E4,Cleveland,0,8,NBA Finals,2017-18
+W2,Golden State,4,8,NBA Finals,2017-18
+W1,Houston,4,9,First Round,2017-18
+W8,Minnesota,1,9,First Round,2017-18
+W1,Houston,4,10,Conference Semifinals,2017-18
+W5,Utah,1,10,Conference Semifinals,2017-18
+W4,Oklahoma City,2,11,First Round,2017-18
+W5,Utah,4,11,First Round,2017-18
+W1,Houston,3,12,Conference Finals,2017-18
+W2,Golden State,4,12,Conference Finals,2017-18
+W3,Portland,0,13,First Round,2017-18
+W6,New Orleans,4,13,First Round,2017-18
+W6,New Orleans,1,14,Conference Semifinals,2017-18
+W2,Golden State,4,14,Conference Semifinals,2017-18
+W2,Golden State,4,15,First Round,2017-18
+W7,San Antonio,1,15,First Round,2017-18
+E1,Milwaukee,4,1,First Round,2018-19
+E8,Detroit,0,1,First Round,2018-19
+E1,Milwaukee,4,2,Conference Semifinals,2018-19
+E4,Boston,1,2,Conference Semifinals,2018-19
+E4,Boston,4,3,First Round,2018-19
+E5,Indiana,0,3,First Round,2018-19
+E1,Milwaukee,2,4,Conference Finals,2018-19
+E2,Toronto,4,4,Conference Finals,2018-19
+E3,Philadelphia,4,5,First Round,2018-19
+E6,Brooklyn,1,5,First Round,2018-19
+E3,Philadelphia,3,6,Conference Semifinals,2018-19
+E2,Toronto,4,6,Conference Semifinals,2018-19
+E2,Toronto,4,7,First Round,2018-19
+E7,Orlando,1,7,First Round,2018-19
+E2,Toronto,4,8,NBA Finals,2018-19
+W1,Golden State,2,8,NBA Finals,2018-19
+W1,Golden State,4,9,First Round,2018-19
+W8,LA Clippers,2,9,First Round,2018-19
+W1,Golden State,4,10,Conference Semifinals,2018-19
+W4,Houston,2,10,Conference Semifinals,2018-19
+W4,Houston,4,11,First Round,2018-19
+W5,Utah,1,11,First Round,2018-19
+W1,Golden State,4,12,Conference Finals,2018-19
+W3,Portland,0,12,Conference Finals,2018-19
+W3,Portland,4,13,First Round,2018-19
+W6,Oklahoma City,1,13,First Round,2018-19
+W3,Portland,4,14,Conference Semifinals,2018-19
+W2,Denver,3,14,Conference Semifinals,2018-19
+W2,Denver,4,15,First Round,2018-19
+W7,San Antonio,3,15,First Round,2018-19
