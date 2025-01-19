@@ -4,10 +4,10 @@ Projeto para a matéria de tópicos especiais em métodos quantitativos do PIMES
 ## Autoria
 Yara Corrêa Gomes
 
-## 3Objetivo Geral
+## Objetivo Geral
 Esse projeto tem como objetivo a aplicação dos métodos vistos no decorrer do semestre. Para isso iremos coletar, gerar indicadores, analisar e fazer previsões utilizando os dados da _National Basketball Association_ (**NBA**). Coletamos os dados das temporadas entre 1984-1985 e 2018-2019. Escolhemos começar com essa temporada pois foi partir de 1984 que os playoff passaram a incluir 16 equipes e quatro rodadas (primeira rodada, semifinais de conferência, finais de conferência e finais da **NBA**). Encerramos o projeto com a temporada 2018-2019 deivido a pandemia de **Covid-19**.
 
-##Organização do projeto
+## Organização do projeto
 
 1) Coleta dos Dados: nós coletamos as partidas da primeira rodada, semifinais de conferência, finais de conferência e finais da NBA para as temporadas entre 1984-1985 e 2018-2019, via _web-scraping_, no site [Wikipédia](https://en.wikipedia.org/wiki/List_of_NBA_seasons). O file da coleta dos dados é:
 
